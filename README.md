@@ -27,6 +27,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhanraj6423&show_icons=true&locale=en&theme=tokyonight" alt="Dhanraj6423" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanraj6423&&theme=tokyonight" alt="Dhanraj6423" /></p>
+
 
 
 
